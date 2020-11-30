@@ -1,0 +1,114 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background:#323232;
+    color: #fff;
+}
+.col-xs-12{
+    padding: 0;
+}
+.header h3{
+    border:3px solid #ccc;
+    width:45%;
+    margin:0px auto;
+    padding:15px 0px;
+    margin-bottom: 50px;
+    /* margin-right: 30%; */
+}
+.header h3 a{
+    color:#fff;
+}
+.header h3 a:hover{
+    text-decoration: none;
+}
+
+.one{
+    margin-top:50px;
+}
+.one img{
+    width: 100%;
+}
+.one .des{
+    padding: 0;
+    margin: 0;
+    padding-top:20%;
+}
+
+.one .des h5{
+    font-weight: bold;
+}
+.one .des span{
+    font-size: 12px;
+}
+
+.news h1{
+    font-size: 60px;
+    margin:100px 0px;
+}
+.news img{
+    width:100%;
+}
+
+.location{
+    padding-bottom: 25px;
+    background-image: linear-gradient(rgb(240 204 164) 0%,rgb(240 204 164) 50%,rgb(211, 214, 183) 75%,rgb(183, 165, 194) 90%);
+}
+.location h1{
+    font-size: 60px;
+    margin:50px 0px;
+    color: #000;
+}
+.location .box{
+    padding:10px 0px 40px 0px;
+    overflow: hidden;
+    width:90%;
+    margin:0 auto;
+    border:3px solid rgb(180, 73, 184);
+}
+.location .box h2{
+    color: #000;
+    font-weight: bold;
+}
+.location .box p{
+    color: #000;
+    font-weight: bold;
+    font-size: 16px;
+}
+.location .box p span{
+    color: rgb(104, 141, 61);
+}
+.location .box h3{
+    color: rgb(172, 61, 41);
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+
+.local2{
+    background-image: linear-gradient(#f8c4af 0%,#f8c4af 50%,#dfa993 75%,#d08e73 90%);
+}
+.local2 .box{
+    border:3px solid rgb(225, 228, 183);
+}
+.local2 .box p span{
+    color: rgb(54, 92, 196);
+}
+.local2 .box h3{
+    color: rgb(226, 223, 223);
+}
+
+.local3{
+    background-image: linear-gradient(#eb9888 0%,#eb9888 50%,#eb9888 75%,#eb9888 90%);
+}
+.local3 .box{
+    border:3px solid rgb(225, 228, 183);
+}
+.local3 .box p span{
+    color: rgb(148, 40, 40);
+}
+.local3 .box h3{
+    color: rgb(226, 223, 223);
+}
